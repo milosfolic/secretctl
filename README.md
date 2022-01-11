@@ -1,3 +1,5 @@
+# SecretCTL
+
 - [SecretCTL](#secretctl)
   - [About the project](#about-the-project)
     - [Design](#design)
@@ -5,10 +7,6 @@
   - [Getting started](#getting-started)
     - [Layout](#layout)
   - [Notes](#notes)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# SecretCTL
 
 ## About the project
 
