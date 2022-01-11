@@ -6,6 +6,9 @@ package main
 
 import "github.com/milosfolic/secretctl/cmd"
 
+var VERSION = ""
+var BUILD = ""
+
 func main() {
 	cmd.Execute()
 }
