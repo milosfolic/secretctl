@@ -2,7 +2,6 @@
 
 - [SecretCTL](#secretctl)
   - [About the project](#about-the-project)
-    - [Design](#design)
     - [Status](#status)
   - [Getting started](#getting-started)
     - [Layout](#layout)
