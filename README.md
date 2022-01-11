@@ -44,8 +44,7 @@ A brief description of the layout:
 * `README.md` is a detailed description of the project.
 * `bin` is to hold build outputs.
 * `cmd` contains main packages.
-* `build` contains scripts, yaml files, dockerfiles, etc, to build and package the project.
-* `test` holds all tests (except unit tests), e.g. integration, e2e tests.
+* `test` holds build tests.
 
 ## Notes
 
